@@ -2,7 +2,7 @@
 
 ## Description
 
-<p>A simple app that uses some core and basic Vue.js features:</p>
+<p>A simple app that uses some core and basic <b>Vue.js</b> features:</p>
 <ul>
     <li>Component-based file structure.</li>
     <li>The <code>ref</code> function from Reactivity API.</li>
