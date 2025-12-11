@@ -1,6 +1,6 @@
 # Vue.js Facts
 
-## Descrition
+## Description
 
 <p>A simple app that uses some core and basic Vue.js features:</p>
 <ul>
